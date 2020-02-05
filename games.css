@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+}
+.top{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+   height: 300px;
+   color: white;
+}
+.top h1{
+    position: absolute;
+    top: 150px;
+    margin: 0px auto;
+    left: 560px;
+}
+.top h5{
+text-align: right;
+}
+.top h3{
+    text-align: left;
+    position: absolute;
+    top: 5px;
+    left: 15px
+}
+.links{
+    background-color: black;
+    height: 100px;
+}
+.links h2{
+    color: white;
+    position: absolute;
+    left: 710px;
+    top: 305px;
+}
+.main {
+    position: absolute;
+    top: 370px;
+    left: 70px;
+}
+.main button{
+    padding: 3px 70px;
+    border-radius: 15px;
+    outline: none;
+}
+.main button:hover{
+    padding: 6px 85px;
+}
+.risk {
+    color: white;
+    text-align: center;
+}
+.details {
+    color: white;
+    width: 300px;
+    position: absolute;
+    left: 30px;
+    top: 505px;
+}
+.risk {
+    color: white;
+    text-align: center;
+    margin: 100px auto;
+}
+.details {
+    color: white;
+    width: 300px;
+    position: absolute;
+    left: 30px;
+    top: 500px;
+}
+.info{
+    position: absolute;
+    top: -345px;
+    left: -710px;
+}

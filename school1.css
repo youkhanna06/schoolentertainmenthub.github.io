@@ -1,0 +1,95 @@
+body{
+    background-color: black;
+}
+.top{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+   height: 300px;
+   color: white;
+}
+.top h1{
+    position: absolute;
+    top: 150px;
+    margin: 0px auto;
+    left: 560px;
+}
+.top h5{
+text-align: right;
+}
+.top h3{
+    text-align: left;
+    position: absolute;
+    top: 5px;
+    left: 15px
+}
+.links{
+    background-color: black;
+    height: 100px;
+}
+.links h2{
+    color: white;
+    position: absolute;
+    left: 710px;
+    top: 305px;
+}
+.main {
+    position: absolute;
+    top: 370px;
+    left: 105px;
+}
+.main button{
+    padding: 3px 80px;
+    border-radius: 15px;
+    outline: none;
+}
+.main button:hover{
+    padding: 6px 85px;
+}
+.genre{
+    background-color: white;
+    height: 75px;
+   
+}
+.genre h2{
+    position: absolute;
+    left: 710px;
+    top: 400px;
+}
+.games button{
+    position: absolute;
+    top: 450px;
+    padding: 3px 198px;
+    left: 290px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    outline: none;
+}
+.enter button{
+    position: absolute;
+    left: 750px;
+    padding: 3px 198px;
+    top: 450px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    outline: none;
+}
+
+.enter button:hover {
+    padding: 6px 203px;
+}
+.games button:hover {
+    padding: 6px 203px;
+}
+.risk {
+    color: white;
+    text-align: center;
+}
+.details {
+    color: white;
+    width: 300px;
+    position: absolute;
+    left: 30px;
+    top: 505px;
+}
